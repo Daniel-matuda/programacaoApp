@@ -1,0 +1,6 @@
+// crie um programa que sorteie numeros da loteria aleatorios de acordo com o tipo de jogo, se escolheu quina terá que sortear 5, lotofacil 15 
+
+// crie um programa que leia uma dada temperatura e converta para a temperatura escolhida pelo o usuário
+
+// crie um programa para calcular a massa corporea de um indivíduo, o usuário vai entrar com os dados
+
