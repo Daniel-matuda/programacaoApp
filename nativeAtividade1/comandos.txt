@@ -1,5 +1,13 @@
 para criar: 
 npx create-expo-app Cronometro --template blank
 
+npm install (DENTRO DO CD CORRETO DO PROJETO, n pode ser na pasta raiz que engloba os projetos tem q ser dentro do projeto em si)
+
 para rodar:
 npx expo start
+
+npx expo install @react-native-picker/picker
+npx expo install @react-native-community/slider
+
+import { Picker } from '@react-native-picker/picker'
+import { Slider } from '@react-native-community/slider'
